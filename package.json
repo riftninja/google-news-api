@@ -1,8 +1,8 @@
 {
   "name": "google-news-api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple to use google news api",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/riftninja/google-news-api.git"
@@ -14,10 +14,32 @@
   },
   "homepage": "https://github.com/riftninja/google-news-api#readme",
   "dependencies": {
-    "sax": "^1.2.4"
+    "rss-to-json": "^1.0.5"
   },
   "devDependencies": {
-    "eslint": "^4.14.0",
-    "mocha": "^4.0.1"
-  }
+    "eslint": "^6.5.1",
+    "mocha": "^6.2.1"
+  },
+  "keywords": [
+    "google",
+    "google news",
+    "google-news",
+    "search",
+    "scrape",
+    "api",
+    "query",
+    "json",
+    "html",
+    "localization",
+    "news",
+    "news api",
+    "news-api",
+    "seo",
+    "json-api",
+    "rss",
+    "rss to json",
+    "rss2json",
+    "rss 2 json",
+    "rss json"
+  ]
 }
