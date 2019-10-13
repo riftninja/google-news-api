@@ -1,8 +1,9 @@
 # Google News JSON API
 
 ### Installation
-
     npm install --save google-news-json
+###### Or
+    yarn add google-news-json
 
 ### Usage
 
