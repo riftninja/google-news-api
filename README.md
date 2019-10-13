@@ -1,14 +1,14 @@
-# Google News API
+# Google News JSON API
 
 ### Installation
 
-    npm install --save google-news-api  
+    npm install --save google-news-json
 
 ### Usage
 
 Usage example:
 
-    let googleNewsAPI = require("google-news-api");
+    let googleNewsAPI = require("google-news-json");
     let news = await googleNewsAPI.getNews(googleNewsAPI.TOP_NEWS, null, "en-GB");
 
 Also supports callback

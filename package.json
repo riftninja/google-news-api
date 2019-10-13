@@ -1,5 +1,5 @@
 {
-  "name": "google-news-api",
+  "name": "google-news-json",
   "version": "1.0.0",
   "description": "Simple to use google news api",
   "main": "lib/index.js",
