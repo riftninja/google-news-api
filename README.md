@@ -30,6 +30,9 @@ Callback (not required)
 ### Methods
 `HIGHLIGHTS`, `TOP_NEWS`, `LOCATION`, `SEARCH`, `TOPIC`, `GEO`
 
+### Supported TOPICS
+`TOPICS_WORLD`, `TOPICS_NATION`, `TOPICS_BUSINESS`, `TOPICS_TECHNOLOGY`, `TOPICS_ENTERTAINMENT`, `TOPICS_SCIENCE`, `TOPICS_SPORTS`, `TOPICS_HEALTH`
+
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
