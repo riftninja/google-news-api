@@ -14,7 +14,7 @@ Usage example:
 
 Also supports callback
 
-    googleNewsAPI.getNews(googleNewsAPI.SEACRH, "apple", "en-GB", (err, response) => {
+    googleNewsAPI.getNews(googleNewsAPI.SEARCH, "apple", "en-GB", (err, response) => {
         console.log(response);
     });
 
