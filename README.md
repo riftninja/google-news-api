@@ -38,3 +38,6 @@ Callback (not required)
 Please file feature requests and bugs at the [issue tracker][tracker].
 
 [tracker]: https://github.com/riftninja/google-news-api/issues
+
+##### If you find this project helpful please<br/>
+<a href="https://www.buymeacoffee.com/riftninja" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" ></a>
